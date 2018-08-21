@@ -1,0 +1,15 @@
+{
+  "name": "@sawyerB/getPkgVersionInNandY",
+  "version": "1.0.0",
+  "description": "get global package's version installed by npm and yarn",
+  "license": "MIT",
+  "repository": "sawyerbutton/getPkgVersionInNandY",
+  "main": "index.js",
+  "keywords": [
+    "sawyerbutton",
+    "npm",
+    "yarn",
+    "package",
+    "version"
+  ]
+}
