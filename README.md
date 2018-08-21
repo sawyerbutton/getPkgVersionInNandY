@@ -1,17 +1,17 @@
-# @sawyerB/getPkgVersionInNandY
+# @sawyerbutton/get-pkg-version-in-npm-and-yarn
 
 - Get global package version installed by npm and yarn
 
 ## Install
 
 ```bash
-npm install @sawyerB/getPkgVersionInNandY
+npm install @sawyerbutton/get-pkg-version-in-npm-and-yarn
 ```
 
 ## Usage
 
 ```javascript
-const getPackageVersion = require('@sawyerB/@sawyerbutton/get-pkg-version-in-npm-and-yarn')
+const getPackageVersion = require('@sawyerbutton/get-pkg-version-in-npm-and-yarn')
 
 getPackageVersion('@angular/cli').then(version => {
     console.log(version.npm);
