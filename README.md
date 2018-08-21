@@ -11,7 +11,7 @@ npm install @sawyerB/getPkgVersionInNandY
 ## Usage
 
 ```javascript
-const getPackageVersion = require('@sawyerB/getPkgVersionInNandY')
+const getPackageVersion = require('@sawyerB/@sawyerbutton/get-pkg-version-in-npm-and-yarn')
 
 getPackageVersion('@angular/cli').then(version => {
     console.log(version.npm);
